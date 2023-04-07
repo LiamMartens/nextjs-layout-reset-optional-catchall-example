@@ -1,5 +1,5 @@
 import { Nav } from '@/components/Nav'
-import './globals.css'
+import '../globals.css'
 
 type Params = {
   path?: string[]
